@@ -1,217 +1,77 @@
-[21:18:38] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:18:41] [ServerMain/INFO]: Loaded 7 recipes
-[21:18:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:18:42] [Server thread/INFO]: Loading properties
-[21:18:42] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[21:18:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:18:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:18:42] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[21:49:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:49:27] [ServerMain/INFO]: Loaded 7 recipes
+[21:49:27] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:49:27] [Server thread/INFO]: Loading properties
+[21:49:27] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:49:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:49:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:49:28] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:18:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[21:18:43] [Server thread/INFO]: Default game type: SURVIVAL
-[21:18:43] [Server thread/INFO]: Generating keypair
-[21:18:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:18:43] [Server thread/INFO]: Using epoll channel type
-[21:18:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:18:43] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[21:18:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:18:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:18:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:18:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:18:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:18:43] [Server thread/INFO]: Preparing level "world"
-[21:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:18:44] [Server thread/INFO]: Time elapsed: 319 ms
-[21:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:18:44] [Server thread/INFO]: Time elapsed: 68 ms
-[21:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:18:44] [Server thread/INFO]: Time elapsed: 76 ms
-[21:18:44] [Server thread/INFO]: Running delayed init tasks
-[21:18:44] [Server thread/INFO]: Done (2.502s)! For help, type "help"
-[21:18:44] [Server thread/INFO]: Timings Reset
-[21:18:56] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
-[21:18:56] [Server thread/INFO]: Titosanti joined the game
-[21:18:56] [Server thread/INFO]: Titosanti[/127.28.110.165:46605] logged in with entity id 226 at ([world]22.626513369254802, 69.0, -38.31835543212855)
-[21:18:56] [Server thread/INFO]: Titosanti lost connection: Disconnected
-[21:18:56] [Server thread/INFO]: Titosanti left the game
-[21:19:00] [User Authenticator #0/INFO]: UUID of player Maxisccs is 2f75cc0b-7d44-3317-a8f3-7495ea0a7b2c
-[21:19:00] [Server thread/INFO]: Maxisccs joined the game
-[21:19:00] [Server thread/INFO]: Maxisccs[/127.52.197.205:42453] logged in with entity id 227 at ([world]20.5, 70.0, -50.5)
-[21:19:17] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
-[21:19:17] [Server thread/INFO]: Titosanti joined the game
-[21:19:17] [Server thread/INFO]: Titosanti[/127.28.110.165:56033] logged in with entity id 271 at ([world]22.626513369254802, 69.0, -38.31835543212855)
-[21:19:34] [Server thread/INFO]: Titosanti lost connection: Disconnected
-[21:19:34] [Server thread/INFO]: Titosanti left the game
-[21:19:41] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
-[21:19:41] [Server thread/INFO]: Titosanti joined the game
-[21:19:41] [Server thread/INFO]: Titosanti[/127.28.110.165:37645] logged in with entity id 353 at ([world]22.626513369254802, 69.0, -38.31835543212855)
-[21:19:51] [Server thread/INFO]: Titosanti lost connection: Disconnected
-[21:19:51] [Server thread/INFO]: Titosanti left the game
-[21:22:53] [User Authenticator #1/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
-[21:22:53] [Server thread/INFO]: Titosanti joined the game
-[21:22:53] [Server thread/INFO]: Titosanti[/127.28.110.165:45495] logged in with entity id 751 at ([world]22.626513369254802, 69.0, -38.31835543212855)
-[21:22:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> buena chambita
-[21:24:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Titosanti> acave
-[21:24:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Titosanti> como esto es nuevo
-[21:24:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Titosanti> vamos a hacer la alianza ps
-[21:24:49] [Async Chat Thread - #3/INFO]: [Not Secure] <Titosanti> q
-[21:25:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Titosanti> cuidao
-[21:25:07] [Server thread/INFO]: Maxisccs has made the advancement [Monster Hunter]
-[21:25:50] [Async Chat Thread - #3/INFO]: [Not Secure] <Titosanti> averga
-[21:26:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Titosanti> ws
-[21:27:00] [Server thread/INFO]: Maxisccs has made the advancement [Acquire Hardware]
-[21:27:25] [Server thread/INFO]: Maxisccs has made the advancement [Isn't It Iron Pick]
-[21:27:31] [Server thread/INFO]: Titosanti has made the advancement [Stone Age]
-[21:27:36] [User Authenticator #2/INFO]: UUID of player asado17 is a9756272-f595-3b50-91fa-c47dc7a5f579
-[21:27:36] [Server thread/INFO]: asado17 joined the game
-[21:27:36] [Server thread/INFO]: asado17[/127.157.46.233:37395] logged in with entity id 1862 at ([world]22.5, 71.0, -55.5)
-[21:27:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Titosanti> maso
-[21:27:53] [Server thread/INFO]: Maxisccs has made the advancement [Stone Age]
-[21:28:06] [Server thread/INFO]: Titosanti has made the advancement [Getting an Upgrade]
-[21:28:42] [Server thread/INFO]: Titosanti has made the advancement [Monster Hunter]
-[21:29:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Titosanti> donde anda asado
-[21:29:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Titosanti> oc
-[21:30:07] [Server thread/INFO]: Titosanti has made the advancement [Acquire Hardware]
-[21:30:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Titosanti> en las mina
-[21:30:49] [Async Chat Thread - #9/INFO]: [Not Secure] <Titosanti> 117 102
-[21:31:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Titosanti> lindo spawn
-[21:31:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Titosanti> ya tengo primo pero te voa acepta el hierro
-[21:32:18] [Server thread/INFO]: Titosanti has made the advancement [Isn't It Iron Pick]
-[21:32:33] [Server thread/INFO]: Titosanti has made the advancement [Not Today, Thank You]
-[21:32:50] [User Authenticator #3/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[21:32:50] [Server thread/INFO]: Cerdo_God joined the game
-[21:32:50] [Server thread/INFO]: Cerdo_God[/127.91.145.211:37337] logged in with entity id 3390 at ([world]16.5, 70.0, -48.5)
-[21:32:58] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[21:32:58] [Server thread/INFO]: Cerdo_God left the game
-[21:33:37] [User Authenticator #3/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[21:33:37] [Server thread/INFO]: Cerdo_God joined the game
-[21:33:37] [Server thread/INFO]: Cerdo_God[/127.91.145.211:59549] logged in with entity id 3636 at ([world]16.5, 70.0, -48.5)
-[21:33:42] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[21:33:42] [Server thread/INFO]: Cerdo_God left the game
-[21:33:57] [Async Chat Thread - #10/INFO]: [Not Secure] <Titosanti> erga donde te fuiste macsi
-[21:34:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Titosanti> no te cargan las skins
-[21:34:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Titosanti> xd
-[21:34:56] [User Authenticator #4/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[21:34:56] [Server thread/INFO]: Cerdo_God joined the game
-[21:34:56] [Server thread/INFO]: Cerdo_God[/127.91.145.211:33631] logged in with entity id 4054 at ([world]16.5, 70.0, -48.5)
-[21:35:21] [User Authenticator #4/INFO]: UUID of player BruhYoichi is 6566db9a-8982-3fd3-9247-053bc2400d2e
-[21:35:21] [Server thread/INFO]: BruhYoichi joined the game
-[21:35:21] [Server thread/INFO]: BruhYoichi[/127.140.124.193:33773] logged in with entity id 4412 at ([world]17.5, 70.0, -45.5)
-[21:35:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> yo
-[21:35:44] [Server thread/INFO]: Cerdo_God issued server command: /msg yoichi
-[21:35:53] [Server thread/INFO]: Cerdo_God issued server command: /msg yoichi vamos a hacer algo
-[21:36:01] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi vamos a hacer algo
-[21:36:12] [Server thread/INFO]: asado17 has made the advancement [Stone Age]
-[21:36:17] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi tu vas a buscar aldea
-[21:36:31] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi yo consigo los diamantes y el hierro luego tu pasas cords
-[21:36:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> mira mld maxi
-[21:36:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> en el anterior me dijeron q me mataste al juan
-[21:36:49] [Async Chat Thread - #11/INFO]: [Not Secure] <Titosanti> que baneaban
-[21:36:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> jai papa
-[21:37:06] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> dale gracias a dios q se borro mariquito
-[21:37:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> JSLKADJASLKDJ
-[21:37:23] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> mld asado
-[21:37:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Titosanti> dame un min
-[21:37:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> leiste md?
-[21:37:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> cerdo??
-[21:37:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> tan obsesionado estas maxi??
-[21:38:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> spgt
-[21:38:11] [Server thread/INFO]: asado17 has made the advancement [Getting an Upgrade]
-[21:38:24] [Server thread/INFO]: Cerdo_God has made the advancement [Stone Age]
-[21:38:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> yoichi pero
-[21:38:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> donde te metiste mrk
-[21:38:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> no
-[21:39:12] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi
-[21:39:15] [Server thread/INFO]: BruhYoichi has made the advancement [Stone Age]
-[21:39:16] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi vamos a buscar aldea
-[21:39:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Titosanti> Ando buscando cueva mrk
-[21:39:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> nono
-[21:39:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> pon el esenssials
-[21:39:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> NOOO
-[21:39:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Cerdo_God> YOICHI ESE ES MALISIMO
-[21:39:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> YO LO PROBE
-[21:39:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> si
-[21:39:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> nos va a cagar el mundo
-[21:39:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Titosanti> Comida tienen ya
-[21:40:02] [Async Chat Thread - #13/INFO]: [Not Secure] <Titosanti> coicna
-[21:40:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> q
-[21:40:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> yoichi pero
-[21:40:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> necesitamos cama
-[21:41:20] [Async Chat Thread - #13/INFO]: [Not Secure] <Titosanti> me pongo a jugar roblox
-[21:41:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> JAKLSDJ
-[21:41:35] [Server thread/INFO]: BruhYoichi has made the advancement [Getting an Upgrade]
-[21:41:35] [Server thread/INFO]: Cerdo_God has made the advancement [Getting an Upgrade]
-[21:41:46] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> bro q esta diciendo..
-[21:41:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Titosanti> epa
-[21:41:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Titosanti> que te hicist
-[21:42:05] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi vamos a hacer algo
-[21:42:17] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi consigue tu la aldea
-[21:42:39] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi yo voy a mina consigo el full diamond para blister para ti y para mi y me pasas las cords de la aldea
-[21:42:52] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi y me pasa cords
-[21:43:02] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi y ya
-[21:43:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> JASLKDASLKDJ
-[21:43:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> dale
-[21:43:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> y q luego el pase cords
-[21:43:33] [Server thread/INFO]: BruhYoichi has made the advancement [Monster Hunter]
-[21:43:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> asado q dice
-[21:43:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> el ayer murio 5 veces
-[21:43:40] [Server thread/INFO]: asado17 has made the advancement [Monster Hunter]
-[21:43:41] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> murio mas q yo
-[21:43:44] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> y tu tmb maxi
-[21:44:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Titosanti> hp cueva tan mala
-[21:44:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Titosanti> attras wn
-[21:44:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> yo tmb lo consegui pero maxi me sabe a qk
-[21:44:50] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> es muy malo
-[21:44:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Titosanti> hard
-[21:44:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> ASDLJAKDLAKSJD
-[21:45:08] [Server thread/INFO]: Cerdo_God has made the advancement [Monster Hunter]
-[21:45:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> le bajaste la dificultad maxi???
-[21:45:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> te cagaste?
-[21:45:29] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> jeje
-[21:46:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> s
-[21:46:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Titosanti> acá sale en hard
-[21:47:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> pone q esta en facil
-[21:47:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Titosanti> dejame ver
-[21:47:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> esta en facil dice
-[21:47:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> opcines
-[21:47:22] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> y en linea
-[21:47:57] [Server thread/INFO]: Maxisccs has made the advancement [Not Today, Thank You]
-[21:47:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> jai papa maxi
-[21:48:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Cerdo_God> JAI PAPA MAXI
-[21:48:27] [Async Chat Thread - #14/INFO]: [Not Secure] <Cerdo_God> acabo de ver a alguien
-[21:48:28] [Server thread/INFO]: Maxisccs lost connection: Disconnected
-[21:48:28] [Server thread/INFO]: Maxisccs left the game
-[21:48:28] [Server thread/INFO]: Titosanti lost connection: Disconnected
-[21:48:28] [Server thread/INFO]: Titosanti left the game
-[21:48:28] [Server thread/INFO]: asado17 lost connection: Disconnected
-[21:48:28] [Server thread/INFO]: asado17 left the game
-[21:48:28] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[21:48:28] [Server thread/INFO]: Cerdo_God left the game
-[21:48:28] [Server thread/INFO]: BruhYoichi lost connection: Disconnected
-[21:48:28] [Server thread/INFO]: BruhYoichi left the game
-[21:48:28] [Server thread/INFO]: Stopping server
-[21:48:28] [Server thread/INFO]: Saving players
-[21:48:28] [Server thread/INFO]: Saving worlds
-[21:48:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:48:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:48:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:48:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Saved 2744 block chunks, 930 entity chunks, 9 poi chunks in world 'world' in 1.84s
-[21:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 13 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[21:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:48:30] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[21:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:48:30] [Server thread/INFO]: Flushing Chunk IO
-[21:48:30] [Server thread/INFO]: Closing Thread Pool
-[21:48:30] [Server thread/INFO]: Closing Server
+[21:49:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:49:28] [Server thread/INFO]: Default game type: SURVIVAL
+[21:49:28] [Server thread/INFO]: Generating keypair
+[21:49:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:49:29] [Server thread/INFO]: Using epoll channel type
+[21:49:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:49:29] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[21:49:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:49:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:49:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:49:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:49:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:49:29] [Server thread/INFO]: Preparing level "world"
+[21:49:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:29] [Server thread/INFO]: Time elapsed: 308 ms
+[21:49:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:49:30] [Server thread/INFO]: Time elapsed: 56 ms
+[21:49:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:49:30] [Server thread/INFO]: Time elapsed: 40 ms
+[21:49:30] [Server thread/INFO]: Running delayed init tasks
+[21:49:30] [Server thread/INFO]: Done (2.368s)! For help, type "help"
+[21:49:30] [Server thread/INFO]: Timings Reset
+[21:49:32] [User Authenticator #0/INFO]: UUID of player BruhYoichi is 6566db9a-8982-3fd3-9247-053bc2400d2e
+[21:49:32] [Server thread/INFO]: BruhYoichi joined the game
+[21:49:32] [Server thread/INFO]: BruhYoichi[/127.140.124.193:53093] logged in with entity id 35 at ([world]295.69980998003564, 62.16372564627478, -96.23761496019107)
+[21:49:39] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
+[21:49:39] [Server thread/INFO]: Titosanti joined the game
+[21:49:39] [Server thread/INFO]: Titosanti[/127.28.110.165:39629] logged in with entity id 427 at ([world]451.30433714513424, 78.0, 385.5464005456554)
+[21:49:52] [User Authenticator #0/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
+[21:49:52] [Server thread/INFO]: Cerdo_God joined the game
+[21:49:52] [Server thread/INFO]: Cerdo_God[/127.91.145.211:36225] logged in with entity id 658 at ([world]-78.49972736307002, 29.0, 11.300000011920929)
+[21:50:02] [User Authenticator #0/INFO]: UUID of player asado17 is a9756272-f595-3b50-91fa-c47dc7a5f579
+[21:50:02] [Server thread/INFO]: asado17 joined the game
+[21:50:02] [Server thread/INFO]: asado17[/127.157.46.233:52373] logged in with entity id 1005 at ([world]457.01003591011226, 80.0, 388.71009163677434)
+[21:50:32] [Server thread/INFO]: BruhYoichi lost connection: Disconnected
+[21:50:32] [Server thread/INFO]: BruhYoichi left the game
+[21:50:32] [Server thread/INFO]: Titosanti lost connection: Disconnected
+[21:50:32] [Server thread/INFO]: Titosanti left the game
+[21:50:32] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
+[21:50:32] [Server thread/INFO]: Cerdo_God left the game
+[21:50:32] [Server thread/INFO]: asado17 lost connection: Disconnected
+[21:50:32] [Server thread/INFO]: asado17 left the game
+[21:50:32] [Server thread/INFO]: Stopping server
+[21:50:32] [Server thread/INFO]: Saving players
+[21:50:32] [Server thread/INFO]: Saving worlds
+[21:50:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:50:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:50:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:50:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:50:36] [Server thread/INFO]: [ChunkHolderManager] Saved 2739 block chunks, 2070 entity chunks, 0 poi chunks in world 'world' in 3.20s
+[21:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:50:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:50:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:50:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:50:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:50:36] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.56s
+[21:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:50:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:50:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:50:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:50:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:50:37] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.13s
+[21:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:50:37] [Server thread/INFO]: Flushing Chunk IO
+[21:50:37] [Server thread/INFO]: Closing Thread Pool
+[21:50:37] [Server thread/INFO]: Closing Server
