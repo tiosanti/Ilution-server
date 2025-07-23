@@ -1,513 +1,119 @@
-[21:52:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:52:33] [ServerMain/INFO]: Loaded 7 recipes
-[21:52:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:52:34] [Server thread/INFO]: Loading properties
-[21:52:34] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[21:52:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:52:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:52:35] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[23:20:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:20:31] [ServerMain/INFO]: Loaded 7 recipes
+[23:20:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:20:32] [Server thread/INFO]: Loading properties
+[23:20:32] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:20:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:20:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:20:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:52:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[21:52:35] [Server thread/INFO]: Default game type: SURVIVAL
-[21:52:35] [Server thread/INFO]: Generating keypair
-[21:52:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:52:35] [Server thread/INFO]: Using epoll channel type
-[21:52:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:52:36] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[21:52:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:52:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:52:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:52:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:52:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:52:36] [Server thread/INFO]: Preparing level "world"
-[21:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:52:36] [Server thread/INFO]: Time elapsed: 282 ms
-[21:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:52:36] [Server thread/INFO]: Time elapsed: 92 ms
-[21:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:52:37] [Server thread/INFO]: Time elapsed: 60 ms
-[21:52:37] [Server thread/INFO]: Running delayed init tasks
-[21:52:37] [Server thread/INFO]: Done (2.554s)! For help, type "help"
-[21:52:37] [Server thread/INFO]: Timings Reset
-[21:52:41] [User Authenticator #0/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[21:52:41] [Server thread/INFO]: Cerdo_God joined the game
-[21:52:41] [Server thread/INFO]: Cerdo_God[/127.91.145.211:37929] logged in with entity id 175 at ([world]-89.91635586308729, 20.086399974155427, 11.699999988079071)
-[21:52:42] [User Authenticator #0/INFO]: UUID of player Maxisccs is 2f75cc0b-7d44-3317-a8f3-7495ea0a7b2c
-[21:52:42] [Server thread/INFO]: Maxisccs joined the game
-[21:52:42] [Server thread/INFO]: Maxisccs[/127.52.197.205:49463] logged in with entity id 200 at ([world]456.32606440523733, 79.0, 388.40808840407664)
-[21:52:57] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
-[21:52:58] [Server thread/INFO]: Titosanti joined the game
-[21:52:58] [Server thread/INFO]: Titosanti[/127.28.110.165:38181] logged in with entity id 446 at ([world]469.8118133898475, 77.0, 379.3679879548635)
-[21:53:03] [User Authenticator #0/INFO]: UUID of player BruhYoichi is 6566db9a-8982-3fd3-9247-053bc2400d2e
-[21:53:03] [Server thread/INFO]: BruhYoichi joined the game
-[21:53:03] [Server thread/INFO]: BruhYoichi[/127.140.124.193:54311] logged in with entity id 456 at ([world]276.73250929311644, 71.0, -18.26325203420544)
-[21:53:04] [Server thread/INFO]: Titosanti issued server command: /difficulty hard
-[21:53:05] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> estoy encaramao en un arbol jeje
-[21:53:06] [Server thread/INFO]: Titosanti issued server command: /help
-[21:53:12] [User Authenticator #0/INFO]: UUID of player asado17 is a9756272-f595-3b50-91fa-c47dc7a5f579
-[21:53:13] [Server thread/INFO]: asado17 joined the game
-[21:53:13] [Server thread/INFO]: asado17[/127.157.46.233:41849] logged in with entity id 710 at ([world]468.69999998807907, 76.10131520987476, 379.0726487778348)
-[21:53:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> como tu mama en mi pipi
-[21:53:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> wn pero no me deja usar comandos xd
-[21:54:29] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:54:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> jai papa maxi
-[21:54:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> no vl
-[21:55:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> ando burda de quesuo de matar a un mrk
-[21:55:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> prefiero dejarte piedad
-[21:55:17] [Server thread/INFO]: Cerdo_God has made the advancement [Acquire Hardware]
-[21:55:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Titosanti> te paso pantall
-[21:55:32] [Server thread/INFO]: Cerdo_God has made the advancement [Isn't It Iron Pick]
-[21:56:07] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:56:15] [Server thread/INFO]: Made Titosanti a server operator
-[21:56:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> esae
-[21:56:22] [Server thread/INFO]: Titosanti issued server command: /difficulty hard
-[21:56:22] [Server thread/INFO]: [Titosanti: The difficulty has been set to Hard]
-[21:56:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> quien es ese??
-[21:56:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> ya
-[21:56:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> jai papa asado
-[21:56:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Titosanti> esa e macsi
-[21:56:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> ahora es cuando nos caen 4 creeper
-[21:56:51] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> NOOOO
-[21:56:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> q
-[21:56:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> LO Q ACABO DE CONSEGUIR
-[21:57:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> mina de lapis
-[21:57:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> ni me que llamaran tu mama
-[21:57:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> jeje
-[21:57:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> JASDKLJASKLDJ
-[21:57:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> JAJAJAJAJ
-[21:58:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> calma calma
-[21:58:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> es ragebait
-[21:58:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> no tengo nada en contra de maxi
-[21:58:17] [Server thread/INFO]: Cerdo_God has made the advancement [Diamonds!]
-[21:58:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> jeje
-[21:58:23] [Server thread/INFO]: Maxisccs has made the advancement [Ice Bucket Challenge]
-[21:59:32] [Server thread/INFO]: BruhYoichi has made the advancement [Acquire Hardware]
-[22:00:28] [Server thread/WARN]: Titosanti was kicked due to keepalive timeout!
-[22:00:28] [Server thread/INFO]: Titosanti lost connection: Timed out
-[22:00:28] [Server thread/INFO]: Titosanti left the game
-[22:02:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> si maxi?
-[22:02:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> x
-[22:02:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> te iba a tirar otra vez con la pure pero no se presta
-[22:02:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> pq te picas
-[22:02:41] [Server thread/INFO]: BruhYoichi has made the advancement [Suit Up]
-[22:03:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> alguien le pregunto a asado?
-[22:03:25] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> JEJJEAKJSLDKJ
-[22:03:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> nada nada
-[22:03:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> si metes a la novia cualquiera ps
-[22:04:07] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> porq no tiene logica yo solo estoy jodiendo xd
-[22:04:14] [Server thread/INFO]: BruhYoichi has made the advancement [Not Today, Thank You]
-[22:04:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> tu matandome?
-[22:04:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> q mas sonaste maxi?
-[22:04:56] [Server thread/INFO]: Maxisccs issued server command: /msg asado17 mrc si lo encuentro le hago spawn kill hasta aburrirme
-[22:05:05] [Server thread/INFO]: asado17 issued server command: /msg Maxisccs ok
-[22:05:35] [Server thread/INFO]: asado17 has made the advancement [Sweet Dreams]
-[22:05:44] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> s mrk
-[22:05:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> en dificil esta jodido
-[22:06:00] [Server thread/INFO]: Maxisccs has made the advancement [Sweet Dreams]
-[22:06:08] [Server thread/INFO]: BruhYoichi has made the advancement [Sweet Dreams]
-[22:06:10] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[22:06:10] [Server thread/INFO]: Cerdo_God left the game
-[22:06:17] [User Authenticator #1/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[22:06:17] [Server thread/INFO]: Cerdo_God joined the game
-[22:06:17] [Server thread/INFO]: Cerdo_God[/127.91.145.211:49289] logged in with entity id 10716 at ([world]-122.43427174398796, -49.0, -35.30000001192093)
-[22:06:23] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> CNOOOOOOOOOO
-[22:06:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Cerdo_God> :ccccc
-[22:07:21] [Server thread/INFO]: asado17 has made the advancement [Acquire Hardware]
-[22:07:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> yo con casi full diamond...
-[22:07:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> nop
-[22:07:44] [Server thread/INFO]: asado17 has made the advancement [Isn't It Iron Pick]
-[22:07:48] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> estoy en un lago de lava
-[22:07:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> PERO YOICHI
-[22:08:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> nunca viste una guia de mineria??
-[22:08:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> yop
-[22:08:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> tmb vi guia de bastiones
-[22:08:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> nah eso lo hice hace uffff
-[22:08:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> JAJASDKLJASLDKJ
-[22:08:44] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> estoy en mac
-[22:08:48] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> no puedo instalar hacks
-[22:09:54] [User Authenticator #2/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[22:09:54] [Server thread/INFO]: Frist joined the game
-[22:09:54] [Server thread/INFO]: Frist[/127.235.151.210:55153] logged in with entity id 18945 at ([world]9.5, 67.0, -56.5)
-[22:10:05] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> tp
-[22:10:15] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> tp
-[22:10:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> ...............................
-[22:10:27] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> MANO
-[22:10:33] [Async Chat Thread - #7/INFO]: [Not Secure] <Cerdo_God> JAJSDAJSLDKJS
-[22:10:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> XDDDDDDDDDDDDDDDDD
-[22:10:46] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> dilo ps cerdo
-[22:10:49] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> marico las bolas tuyas
-[22:10:51] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> cerdo
-[22:10:54] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> tepeame ahi
-[22:10:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Cerdo_God> jaksjdlasjd
-[22:10:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> una ilegalidad pero rela
-[22:10:59] [Async Chat Thread - #7/INFO]: [Not Secure] <Cerdo_God> realmente se lo creyo
-[22:11:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> callao
-[22:11:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> x eso digo
-[22:11:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> SAJDNSAKNMDJK
-[22:11:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> cerdo dale
-[22:11:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> JALSKDJAKLSJD
-[22:11:23] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> confio en tus poderes
-[22:11:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> si confias en mi te vas a morir ahi mrk
-[22:11:38] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> XDDDDD
-[22:11:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> LLEVO MEDIA HORA PICANDO UNA HOJA
-[22:11:50] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> Y NO SE ROMPE
-[22:12:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> aNDO ENN UN ARBOL
-[22:12:11] [Async Chat Thread - #7/INFO]: [Not Secure] <Frist> XD
-[22:12:12] [Server thread/INFO]: Frist lost connection: Disconnected
-[22:12:12] [Server thread/INFO]: Frist left the game
-[22:12:14] [User Authenticator #3/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[22:12:14] [Server thread/INFO]: Frist joined the game
-[22:12:14] [Server thread/INFO]: Frist[/127.235.151.210:60677] logged in with entity id 23648 at ([world]10.528318730321308, 70.0, -47.226033808176815)
-[22:12:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> BROO
-[22:12:28] [Async Chat Thread - #7/INFO]: [Not Secure] <Cerdo_God> naguevoba
-[22:12:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> nunca vieron guias de mineria fuera e paja??
-[22:12:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> HERMANO
-[22:12:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Cerdo_God> yop
-[22:12:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> NO SE ROMPE XDD
-[22:12:56] [Async Chat Thread - #9/INFO]: [Not Secure] <Cerdo_God> juego desde los 4 ps
-[22:13:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> JALSKDJASLKDJ
-[22:13:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Frist> el spawn esta bugueado gente
-[22:13:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> qn esta cerca del spawn
-[22:13:47] [Async Chat Thread - #9/INFO]: [Not Secure] <Cerdo_God> porq me tiran si no les hice nada
-[22:13:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Frist> XD
-[22:13:56] [Async Chat Thread - #9/INFO]: [Not Secure] <Cerdo_God> jeje
-[22:13:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> el q se pica pipi mastica
-[22:14:01] [Async Chat Thread - #9/INFO]: [Not Secure] <Frist> voy a reiniciar net pave
-[22:14:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Cerdo_God> NOOO
-[22:14:23] [Async Chat Thread - #9/INFO]: [Not Secure] <Cerdo_God> NOOOOOOOO
-[22:14:38] [Server thread/INFO]: Frist lost connection: Timed out
-[22:14:38] [Server thread/INFO]: Frist left the game
-[22:16:04] [Async Chat Thread - #10/INFO]: [Not Secure] <Cerdo_God> yop
-[22:16:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> JAJAJAJAJ
-[22:16:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> me vi una guia de las ciudades antiguas
-[22:16:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> y de las bastiones
-[22:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Cerdo_God> JAJAJAJJ
-[22:16:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> de hecho
-[22:16:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Cerdo_God> nono
-[22:16:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> ya mucho jeje
-[22:16:39] [User Authenticator #4/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[22:16:39] [Server thread/INFO]: Frist joined the game
-[22:16:39] [Server thread/INFO]: Frist[/127.112.193.93:49535] logged in with entity id 27416 at ([world]2.805084444619738, 66.0, -49.30000001192093)
-[22:16:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Cerdo_God> esa la necesitas tu
-[22:16:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Cerdo_God> ya vulevo
-[22:16:48] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[22:16:48] [Server thread/INFO]: Cerdo_God left the game
-[22:16:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> busca una guia de como entrar al mc
-[22:17:04] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> hermano
-[22:17:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> es el spawn
-[22:17:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> que esta bug
-[22:17:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> no se pica
-[22:17:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> tp
-[22:18:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> pasame tus coors
-[22:18:33] [Server thread/INFO]: asado17 has made the advancement [Not Today, Thank You]
-[22:18:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> asado
-[22:18:38] [Server thread/INFO]: BruhYoichi has made the advancement [Isn't It Iron Pick]
-[22:19:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> asado
-[22:19:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> coors
-[22:19:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> s
-[22:19:30] [Async Chat Thread - #10/INFO]: [Not Secure] <BruhYoichi> pq
-[22:19:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Frist> yoichi
-[22:19:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> yoichi
-[22:19:43] [Server thread/INFO]: asado17 issued server command: /msg Frist 1929 510
-[22:19:44] [Async Chat Thread - #12/INFO]: [Not Secure] <BruhYoichi> malditos niggers
-[22:19:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> MARDITO
-[22:20:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> s
-[22:20:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> ..
-[22:20:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> XD
-[22:20:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> mrc fui a ver la camisa
-[22:20:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> no la encontre
-[22:20:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> tengo q ir al sambil
-[22:21:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> avr
-[22:21:05] [Server thread/INFO]: Maxisccs has made the advancement [Suit Up]
-[22:21:19] [Async Chat Thread - #10/INFO]: [Not Secure] <BruhYoichi> s
-[22:21:24] [Server thread/INFO]: Frist lost connection: Disconnected
-[22:21:24] [Server thread/INFO]: Frist left the game
-[22:21:32] [User Authenticator #5/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[22:21:32] [Server thread/INFO]: Frist joined the game
-[22:21:32] [Server thread/INFO]: Frist[/127.112.193.93:59055] logged in with entity id 30190 at ([world]246.03722355946508, 71.0, 96.90557954986126)
-[22:21:36] [Server thread/INFO]: Frist lost connection: Disconnected
-[22:21:36] [Server thread/INFO]: Frist left the game
-[22:21:38] [User Authenticator #5/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[22:21:38] [Server thread/INFO]: Frist joined the game
-[22:21:38] [Server thread/INFO]: Frist[/127.112.193.93:50035] logged in with entity id 30246 at ([world]246.03722355946508, 71.0, 96.90557954986126)
-[22:21:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> escuchame
-[22:21:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> lo qpaso q ahorita no ando en mi cs de css
-[22:21:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> si no de los valles del tuy
-[22:21:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> entonces
-[22:22:04] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> yo baje pa ve si consigo una chemise polo
-[22:22:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> blanca negra
-[22:22:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> pero no
-[22:22:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> no consigo una mrd
-[22:22:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> y llegue sudao a mi casas
-[22:22:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Frist> nada
-[22:22:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Frist> tengo q ir a caracas mrc
-[22:22:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Frist> joder
-[22:22:37] [Server thread/INFO]: Frist was shot by Skeleton
-[22:23:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Frist> feriado no?
-[22:24:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> yo ahorita ando esperando empezar
-[22:24:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Frist> la uni ve
-[22:24:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> q den los resultados mrc
-[22:24:41] [Async Chat Thread - #14/INFO]: [Not Secure] <Frist> S
-[22:24:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> sabes
-[22:24:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Frist> lo q quiero estudiar
-[22:25:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> medicina
-[22:25:37] [Async Chat Thread - #16/INFO]: [Not Secure] <Frist> XD
-[22:25:47] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> *yo quiero esa guia
-[22:26:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Frist> no mano
-[22:26:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Frist> ME MAOT
-[22:27:39] [Server thread/INFO]: Maxisccs has made the advancement [Diamonds!]
-[22:27:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Frist> denme consjeos de como inciair en mc
-[22:27:54] [Async Chat Thread - #18/INFO]: [Not Secure] <Frist> osea q hacer al principio
-[22:27:57] [Server thread/INFO]: Frist has made the advancement [Stone Age]
-[22:28:20] [Async Chat Thread - #17/INFO]: [Not Secure] <Frist> como cuantos
-[22:28:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Frist> tengo 15 cerdos
-[22:29:07] [Async Chat Thread - #17/INFO]: [Not Secure] <Frist> diavlo
-[22:29:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Frist> como hago
-[22:29:21] [Async Chat Thread - #17/INFO]: [Not Secure] <Frist> la vaina esa
-[22:29:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Frist> escudo
-[22:29:56] [Async Chat Thread - #17/INFO]: [Not Secure] <Frist> byo
-[22:31:05] [Async Chat Thread - #19/INFO]: [Not Secure] <Frist> hacha de piedra recomiendan?
-[22:31:20] [User Authenticator #6/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[22:31:20] [Server thread/INFO]: Cerdo_God joined the game
-[22:31:20] [Server thread/INFO]: Cerdo_God[/127.91.145.211:51133] logged in with entity id 37200 at ([world]-138.3750900187365, -28.0, -74.51129653351467)
-[22:31:26] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> volvio por quien lloraban
-[22:31:36] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> JAJAJAJ
-[22:31:38] [Server thread/INFO]: Frist has made the advancement [Getting an Upgrade]
-[22:31:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> maxi recien llego y ya me esta tirando
-[22:31:50] [Async Chat Thread - #19/INFO]: [Not Secure] <Frist> dujermannnnn
-[22:32:02] [Async Chat Thread - #20/INFO]: [Not Secure] <Frist> DUERMANN
-[22:32:34] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> frist te recomiendo q veas una guia de como desaparecer tu existencia para poder adelantar el tiempo
-[22:32:37] [Async Chat Thread - #19/INFO]: [Not Secure] <Frist> XD
-[22:32:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Frist> cerdo
-[22:32:58] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> dime
-[22:33:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Frist> ya te viste la guia de dejar de ser subnormal
-[22:33:07] [Async Chat Thread - #19/INFO]: [Not Secure] <Frist> vrdd
-[22:33:10] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> QUE
-[22:33:13] [Async Chat Thread - #20/INFO]: [Not Secure] <Frist> mentiris
-[22:33:13] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> q me tira
-[22:33:27] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> me vi una guia de como cojerme a la me tuya
-[22:33:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> pero si me esta tirando
-[22:33:48] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> el q se pica pipi mastica
-[22:34:04] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> es q ns si tiene hermana
-[22:34:13] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> me sabe a culo asado.
-[22:34:15] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> NOOONO
-[22:34:17] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> CALMA
-[22:34:19] [Async Chat Thread - #19/INFO]: [Not Secure] <Frist> mano no te voy a tirar con tu familia pq no cuadra
-[22:34:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> el metiro solo
-[22:34:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> nadie lo mando
-[22:34:43] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> JAI PAPA
-[22:34:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Cerdo_God> LO Q ACABO DE CONSEGUIR
-[22:35:00] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> nop
-[22:35:02] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> un spawn
-[22:35:05] [Async Chat Thread - #21/INFO]: [Not Secure] <Frist> en esta version no se puede poner una antorcha en la mano?
-[22:35:17] [Async Chat Thread - #21/INFO]: [Not Secure] <Frist> ah ya
-[22:35:28] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> no puedo utilizar hacks
-[22:35:31] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> les explico
-[22:35:46] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> la compatibidad con la mac no acepta
-[22:35:46] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> bno
-[22:35:49] [Async Chat Thread - #21/INFO]: [Not Secure] <Cerdo_God> ya lo dijiste tu
-[22:36:07] [Async Chat Thread - #19/INFO]: [Not Secure] <Cerdo_God> q
-[22:36:10] [Server thread/INFO]: asado17 has made the advancement [Suit Up]
-[22:37:43] [Server thread/INFO]: Maxisccs has made the advancement [Hot Stuff]
-[22:37:59] [Async Chat Thread - #22/INFO]: [Not Secure] <Cerdo_God> yoichi pero
-[22:38:01] [Async Chat Thread - #23/INFO]: [Not Secure] <Cerdo_God> y q tim
-[22:38:05] [Async Chat Thread - #23/INFO]: [Not Secure] <Cerdo_God> velo
-[22:38:13] [Async Chat Thread - #24/INFO]: [Not Secure] <Cerdo_God> PERO Q ES
-[22:38:17] [Async Chat Thread - #23/INFO]: [Not Secure] <Cerdo_God> todo es ragebait
-[22:38:22] [Async Chat Thread - #23/INFO]: [Not Secure] <Cerdo_God> yo no tengo peo con nadie
-[22:39:28] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> ya lutee esa mine
-[22:39:57] [Async Chat Thread - #26/INFO]: [Not Secure] <Frist> `pq mc de noche es tan thyard dios mio
-[22:40:50] [Async Chat Thread - #26/INFO]: [Not Secure] <Cerdo_God> ah vaina ps
-[22:41:04] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> no voy seguir tirando pq no me quiero quedar sin tim
-[22:41:16] [Async Chat Thread - #26/INFO]: [Not Secure] <Frist> cerdo es con nosotors :v
-[22:41:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Frist> ?
-[22:42:11] [Async Chat Thread - #25/INFO]: [Not Secure] <Frist> autismo progresando
-[22:42:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Frist> assado
-[22:42:22] [Async Chat Thread - #25/INFO]: [Not Secure] <Frist> coors
-[22:42:32] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi ya consegui la aldea
-[22:42:38] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi paso cords??
-[22:42:40] [Async Chat Thread - #27/INFO]: [Not Secure] <Frist> XD
-[22:42:50] [Async Chat Thread - #27/INFO]: [Not Secure] <Frist> dia
-[22:42:59] [Async Chat Thread - #27/INFO]: [Not Secure] <Cerdo_God> yoichi maricon
-[22:43:04] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> para bola
-[22:43:06] [Async Chat Thread - #25/INFO]: [Not Secure] <Frist> carne sin cocinasr se puede comer?
-[22:43:07] [Async Chat Thread - #27/INFO]: [Not Secure] <Cerdo_God> si yo pase por alli
-[22:43:10] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> ya la lutee
-[22:43:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Cerdo_God> x
-[22:43:37] [Async Chat Thread - #25/INFO]: [Not Secure] <Frist> cerdo
-[22:43:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> q me quedo sin pila
-[22:43:40] [Async Chat Thread - #27/INFO]: [Not Secure] <Frist> e
-[22:43:41] [Async Chat Thread - #27/INFO]: [Not Secure] <Cerdo_God> q paso frist
-[22:43:41] [Async Chat Thread - #28/INFO]: [Not Secure] <Frist> asado
-[22:43:45] [Async Chat Thread - #27/INFO]: [Not Secure] <Frist> ando en tus coors
-[22:43:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Frist> no era contigo cerdo mala xdd
-[22:43:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Cerdo_God> x
-[22:43:57] [Async Chat Thread - #25/INFO]: [Not Secure] <Cerdo_God> MRK YOICHI
-[22:43:59] [Async Chat Thread - #25/INFO]: [Not Secure] <Frist> es q lols nombres son iguales mrc
-[22:44:20] [Async Chat Thread - #28/INFO]: [Not Secure] <Cerdo_God> yoichi
-[22:44:27] [Async Chat Thread - #28/INFO]: [Not Secure] <Cerdo_God> te paso las cords???
-[22:45:07] [Async Chat Thread - #28/INFO]: [Not Secure] <Frist> carbon vegetal
-[22:45:11] [Async Chat Thread - #29/INFO]: [Not Secure] <Frist> es recomendable hacerlo?
-[22:45:24] [Async Chat Thread - #29/INFO]: [Not Secure] <Frist> s
-[22:45:27] [Async Chat Thread - #28/INFO]: [Not Secure] <Frist> ok
-[22:46:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Frist> asado
-[22:46:20] [Async Chat Thread - #29/INFO]: [Not Secure] <Frist> tas en la superficie
-[22:46:38] [Async Chat Thread - #29/INFO]: [Not Secure] <Frist> avisame cuando salgas maxi
-[22:46:39] [Server thread/INFO]: asado17 has made the advancement [Sneak 100]
-[22:46:42] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> pero yoichi
-[22:46:43] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> no
-[22:46:48] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> yo estoy con blister
-[22:46:54] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> pero ns porq yoichi se pico
-[22:47:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> esta diciendo q no
-[22:47:11] [Async Chat Thread - #30/INFO]: [Not Secure] <Frist> cueva
-[22:47:13] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> yoichi eres amigo o enemigo???
-[22:47:22] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> te paso las cords
-[22:47:28] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> estoy en un sitio q te interesa
-[22:47:32] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> ya te hice el full diamond
-[22:47:43] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> vienes o no?
-[22:47:55] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> estoy en una aldea
-[22:47:59] [Async Chat Thread - #29/INFO]: [Not Secure] <Cerdo_God> nop
-[22:48:03] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> tengo 24
-[22:48:10] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> q ia?
-[22:48:25] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> ah vaina ps
-[22:48:27] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> q
-[22:48:30] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> buscalo
-[22:48:34] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> solo se minar y ya
-[22:48:42] [Async Chat Thread - #30/INFO]: [Not Secure] <Frist> mentira
-[22:48:47] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> tengo 5
-[22:48:48] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> 15
-[22:48:57] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> chucky?
-[22:49:09] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> que es yoichi
-[22:49:19] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> te paso las cords
-[22:49:22] [Async Chat Thread - #30/INFO]: [Not Secure] <BruhYoichi> como gemira
-[22:49:24] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> si tengo 15 bro
-[22:49:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> si no me quieres creer lo mamas
-[22:49:37] [Async Chat Thread - #30/INFO]: [Not Secure] <Cerdo_God> eso mismo asado
-[22:49:50] [Async Chat Thread - #32/INFO]: [Not Secure] <Cerdo_God> como se nota q no tienes
-[22:49:53] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> vale
-[22:50:52] [Server thread/INFO]: Cerdo_God issued server command: /msg BruhYoichi -188.286 / 69.93750 / -287.564
-[22:51:05] [Async Chat Thread - #31/INFO]: [Not Secure] <Cerdo_God> alli estan yoichi
-[22:51:10] [Server thread/INFO]: Frist issued server command: /msg Maxisccs ando 2000 -500 ontas tu
-[22:51:46] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[22:51:46] [Server thread/INFO]: Cerdo_God left the game
-[22:52:27] [Server thread/INFO]: BruhYoichi was blown up by Creeper
-[22:52:30] [Async Chat Thread - #34/INFO]: [Not Secure] <Frist> XDDD
-[22:52:31] [Async Chat Thread - #35/INFO]: [Not Secure] <Frist> ASJDNASDNMJKADNMAD
-[22:52:35] [User Authenticator #7/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[22:52:35] [Server thread/INFO]: Cerdo_God joined the game
-[22:52:35] [Server thread/INFO]: Cerdo_God[/127.91.145.211:58547] logged in with entity id 58154 at ([world]-183.82346229982755, 69.0, -307.5964680785407)
-[22:52:47] [Async Chat Thread - #34/INFO]: [Not Secure] <Cerdo_God> yoichi se murio??
-[22:52:51] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> verga
-[22:53:06] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> bno
-[22:53:15] [Async Chat Thread - #34/INFO]: [Not Secure] <Cerdo_God> cuando llegue el mrk de blister te vienes con el
-[22:53:19] [Server thread/INFO]: Cerdo_God has made the advancement [Cover Me with Diamonds]
-[22:53:31] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> diganle q si
-[22:53:40] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> mentira no
-[22:53:44] [Async Chat Thread - #36/INFO]: [Not Secure] <Cerdo_God> me falta el de blister
-[22:53:48] [Server thread/INFO]: Frist issued server command: /msg Maxisccs 2400 -471
-[22:54:41] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> q
-[22:54:42] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> q
-[22:54:56] [Server thread/INFO]: asado17 issued server command: /msg Maxisccs 2492 795
-[22:55:07] [Server thread/INFO]: asado17 issued server command: /msg Frist 2492 795
-[22:55:15] [Async Chat Thread - #36/INFO]: [Not Secure] <Frist> andamos cerqusuima
-[22:55:18] [Async Chat Thread - #36/INFO]: [Not Secure] <Cerdo_God> JALKSJDLKASJD
-[22:55:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> ESA ME LA TIRO A MI
-[22:55:42] [Server thread/INFO]: Frist issued server command: /msg asado17 2400 -471
-[22:55:42] [Async Chat Thread - #35/INFO]: [Not Secure] <Cerdo_God> NO
-[22:55:46] [Async Chat Thread - #37/INFO]: [Not Secure] <Cerdo_God> no es la misma
-[22:55:57] [Async Chat Thread - #35/INFO]: [Not Secure] <Frist> asado voy paya o tu vienes
-[22:56:05] [Server thread/INFO]: BruhYoichi has made the advancement [Diamonds!]
-[22:56:20] [Async Chat Thread - #35/INFO]: [Not Secure] <Frist> yo ap entrar a cueva necesito hacerme escudo
-[22:56:25] [Async Chat Thread - #37/INFO]: [Not Secure] <Frist> pq entrar a la cueva asi ta heavy
-[22:56:37] [Server thread/INFO]: BruhYoichi has made the advancement [Cover Me with Diamonds]
-[22:57:47] [Server thread/INFO]: asado17 lost connection: Disconnected
-[22:57:47] [Server thread/INFO]: asado17 left the game
-[22:57:55] [Async Chat Thread - #38/INFO]: [Not Secure] <Cerdo_God> jai maxi
-[22:58:09] [Async Chat Thread - #39/INFO]: [Not Secure] <Cerdo_God> estamos en una aldea
-[22:58:24] [Async Chat Thread - #38/INFO]: [Not Secure] <Frist> maxi
-[22:58:26] [Async Chat Thread - #38/INFO]: [Not Secure] <Frist> coors
-[22:58:48] [Async Chat Thread - #38/INFO]: [Not Secure] <Frist> yo
-[22:58:50] [Server thread/INFO]: Maxisccs issued server command: /msg Frist x2245/66/y3614
-[22:58:55] [Async Chat Thread - #40/INFO]: [Not Secure] <Frist> yo no se como a
-[22:59:07] [Async Chat Thread - #40/INFO]: [Not Secure] <Cerdo_God> UAJAJJA
-[22:59:11] [Async Chat Thread - #40/INFO]: [Not Secure] <Frist> ANDO A UN CORAZON
-[22:59:16] [Async Chat Thread - #40/INFO]: [Not Secure] <Frist> UN MMGV BICHO CASI ME MATA
-[22:59:20] [Async Chat Thread - #40/INFO]: [Not Secure] <Frist> zombie
-[22:59:27] [Async Chat Thread - #38/INFO]: [Not Secure] <Cerdo_God> q buena aldea mrk
-[22:59:53] [Async Chat Thread - #38/INFO]: [Not Secure] <Cerdo_God> tenemos q irnos al nether yoichi
-[22:59:59] [Async Chat Thread - #38/INFO]: [Not Secure] <Cerdo_God> un portal aca
-[23:00:10] [Async Chat Thread - #40/INFO]: [Not Secure] <Cerdo_God> vale
-[23:00:47] [Async Chat Thread - #40/INFO]: [Not Secure] <Frist> mano
-[23:00:49] [Async Chat Thread - #38/INFO]: [Not Secure] <Frist> como hago
-[23:00:51] [Async Chat Thread - #41/INFO]: [Not Secure] <Frist> una montura
-[23:00:55] [Async Chat Thread - #41/INFO]: [Not Secure] <Frist> tengo unos caballos y carne
-[23:01:05] [Async Chat Thread - #38/INFO]: [Not Secure] <Frist> q
-[23:01:42] [Async Chat Thread - #41/INFO]: [Not Secure] <Frist> deq
-[23:02:07] [Async Chat Thread - #42/INFO]: [Not Secure] <Frist> q es eso
-[23:02:23] [Async Chat Thread - #41/INFO]: [Not Secure] <Frist> mrc hay q recordarle a renault
-[23:02:28] [Async Chat Thread - #41/INFO]: [Not Secure] <Frist> q me fiche en dinasty
-[23:02:45] [Async Chat Thread - #42/INFO]: [Not Secure] <Frist> eso de vasco da gama que es
-[23:03:17] [Async Chat Thread - #42/INFO]: [Not Secure] <Frist> el que piensa en pipi, pipi mastica
-[23:03:20] [Async Chat Thread - #41/INFO]: [Not Secure] <BruhYoichi> como se susurra?
-[23:03:26] [Async Chat Thread - #43/INFO]: [Not Secure] <Frist> *susurrar*
-[23:03:29] [Async Chat Thread - #43/INFO]: [Not Secure] <Frist> cerdo
-[23:03:30] [Async Chat Thread - #43/INFO]: [Not Secure] <BruhYoichi> q
-[23:03:31] [Async Chat Thread - #43/INFO]: [Not Secure] <Frist> eso que es
-[23:03:41] [Async Chat Thread - #41/INFO]: [Not Secure] <BruhYoichi> *susurra* frist hijo de puta asi no es
-[23:03:59] [Server thread/INFO]: Frist lost connection: Disconnected
-[23:03:59] [Server thread/INFO]: Frist left the game
-[23:04:07] [Server thread/INFO]: BruhYoichi lost connection: Disconnected
-[23:04:07] [Server thread/INFO]: BruhYoichi left the game
-[23:05:24] [User Authenticator #8/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
-[23:05:24] [Server thread/INFO]: Frist joined the game
-[23:05:24] [Server thread/INFO]: Frist[/127.112.193.93:58435] logged in with entity id 66965 at ([world]2355.699999988079, 126.0, 373.41475961948385)
-[23:06:29] [Async Chat Thread - #44/INFO]: [Not Secure] <Frist> el comando para q?w
-[23:06:37] [Async Chat Thread - #45/INFO]: [Not Secure] <Frist> no hay
-[23:06:40] [Async Chat Thread - #44/INFO]: [Not Secure] <Frist> kick
-[23:07:36] [Async Chat Thread - #45/INFO]: [Not Secure] <Frist> maxi
-[23:07:39] [Async Chat Thread - #44/INFO]: [Not Secure] <Frist> pàsame la trercera coor
-[23:08:36] [Async Chat Thread - #45/INFO]: [Not Secure] <Frist> pasamelaa
-[23:08:44] [Async Chat Thread - #44/INFO]: [Not Secure] <Frist> se borro del chat mano
-[23:08:45] [Async Chat Thread - #45/INFO]: [Not Secure] <Frist> me sali
-[23:09:08] [Server thread/INFO]: Frist has made the advancement [Isn't It Iron Pick]
-[23:09:09] [Server thread/INFO]: Maxisccs issued server command: /msg Frist x2248/66/3617
-[23:10:46] [Async Chat Thread - #46/INFO]: [Not Secure] <Frist> q bobo
-[23:12:08] [Async Chat Thread - #48/INFO]: [Not Secure] <Frist> pq tna cagaos mrc
-[23:12:15] [Async Chat Thread - #50/INFO]: [Not Secure] <Maxisccs> pq nos van a coger
-[23:12:27] [Async Chat Thread - #48/INFO]: [Not Secure] <Maxisccs> no jugamos tanto wn aparte falta el dt y toda esa gente
-[23:13:32] [Async Chat Thread - #51/INFO]: [Not Secure] <Frist> estass bn lejos maxi
-[23:14:15] [Server thread/INFO]: Cerdo_God was slain by Zombie
-[23:14:28] [Async Chat Thread - #52/INFO]: [Not Secure] <Frist> XD
-[23:14:59] [Server thread/INFO]: Villager EntityVillager['Villager'/62418, uuid='f9e7e14f-c1e6-498f-b749-57d2997a4030', l='ServerLevel[world]', x=2235.53, y=60.00, z=3604.70, cpos=[139, 225], tl=20925, v=true] died, message: 'Villager was slain by Zombie'
-[23:15:46] [Server thread/INFO]: Maxisccs lost connection: Disconnected
-[23:15:46] [Server thread/INFO]: Maxisccs left the game
-[23:16:53] [Server thread/INFO]: Frist lost connection: Disconnected
-[23:16:53] [Server thread/INFO]: Frist left the game
-[23:17:05] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[23:17:05] [Server thread/INFO]: Cerdo_God left the game
-[23:19:18] [Server thread/INFO]: Stopping server
-[23:19:18] [Server thread/INFO]: Saving players
-[23:19:19] [Server thread/INFO]: Saving worlds
-[23:19:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saved 191 block chunks, 274 entity chunks, 0 poi chunks in world 'world' in 0.18s
-[23:19:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:19:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 14 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[23:19:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:19:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:19:19] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[23:19:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:19:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:19:19] [Server thread/INFO]: Flushing Chunk IO
-[23:19:19] [Server thread/INFO]: Closing Thread Pool
-[23:19:19] [Server thread/INFO]: Closing Server
+[23:20:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:20:33] [Server thread/INFO]: Default game type: SURVIVAL
+[23:20:33] [Server thread/INFO]: Generating keypair
+[23:20:33] [Server console handler/WARN]: [org.jline] Failed to load history
+java.lang.IllegalArgumentException: Bad history file syntax! The history file `.console_history` may be an older history: please remove it or use a different history file.
+	at org.jline.reader.impl.history.DefaultHistory.addHistoryLine(DefaultHistory.java:175) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.history.DefaultHistory.addHistoryLine(DefaultHistory.java:165) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.history.DefaultHistory.lambda$load$0(DefaultHistory.java:86) ~[jline-reader-3.20.0.jar:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.jline.reader.impl.history.DefaultHistory.load(DefaultHistory.java:86) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.history.DefaultHistory.attach(DefaultHistory.java:69) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:603) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[paper-1.20.1.jar:git-Paper-196]
+[23:20:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:20:33] [Server thread/INFO]: Using epoll channel type
+[23:20:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:20:33] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[23:20:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:20:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:20:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:20:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:20:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:20:33] [Server thread/INFO]: Preparing level "world"
+[23:20:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:20:34] [Server thread/INFO]: Time elapsed: 292 ms
+[23:20:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:20:34] [Server thread/INFO]: Time elapsed: 80 ms
+[23:20:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:20:34] [Server thread/INFO]: Time elapsed: 78 ms
+[23:20:34] [Server thread/INFO]: Running delayed init tasks
+[23:20:34] [Server thread/INFO]: Done (2.353s)! For help, type "help"
+[23:20:34] [Server thread/INFO]: Timings Reset
+[23:20:44] [User Authenticator #0/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
+[23:20:44] [Server thread/INFO]: Titosanti joined the game
+[23:20:45] [Server thread/INFO]: Titosanti[/127.28.110.165:48799] logged in with entity id 88 at ([world]809.8385716074225, 63.08576431274414, 645.7432175946199)
+[23:20:55] [Server thread/INFO]: Titosanti issued server command: /gamemode creative
+[23:20:55] [Server thread/INFO]: [Titosanti: Set own game mode to Creative Mode]
+[23:21:36] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[23:21:36] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[23:22:36] [Server thread/INFO]: Titosanti issued server command: /gamemode creative
+[23:22:36] [Server thread/INFO]: [Titosanti: Set own game mode to Creative Mode]
+[23:22:49] [Server thread/INFO]: Titosanti issued server command: /gamemode sur
+[23:22:51] [Server thread/INFO]: Titosanti issued server command: /gamemode sur
+[23:22:53] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[23:22:53] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[23:24:05] [Server thread/INFO]: Titosanti has made the advancement [Diamonds!]
+[23:24:12] [Server thread/INFO]: Titosanti has made the advancement [Cover Me with Diamonds]
+[23:25:12] [Server thread/INFO]: Titosanti issued server command: /locate structure minecraft:village_plains
+[23:25:12] [Server thread/INFO]: Locating element minecraft:village_plains took 10 ms
+[23:25:15] [Server thread/INFO]: Titosanti issued server command: /tp @s 16 ~ 800
+[23:25:19] [Server thread/INFO]: [Titosanti: Teleported Titosanti to 16.500000, 69.000000, 800.500000]
+[23:25:24] [Server thread/INFO]: Titosanti issued server command: /gamemode creative
+[23:25:24] [Server thread/INFO]: [Titosanti: Set own game mode to Creative Mode]
+[23:25:39] [Server thread/INFO]: Titosanti issued server command: /gamemode spectator
+[23:25:39] [Server thread/INFO]: [Titosanti: Set own game mode to Spectator Mode]
+[23:25:45] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[23:25:45] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[23:33:38] [Server thread/INFO]: Titosanti issued server command: /gamemode creative
+[23:33:38] [Server thread/INFO]: [Titosanti: Set own game mode to Creative Mode]
+[23:35:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Titosanti> q
+[23:36:33] [User Authenticator #1/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
+[23:36:33] [Server thread/INFO]: Titosanti lost connection: You logged in from another location
+[23:36:33] [Server thread/INFO]: Titosanti left the game
+[23:36:33] [Server thread/INFO]: Titosanti joined the game
+[23:36:33] [Server thread/INFO]: Titosanti[/127.28.110.165:53601] logged in with entity id 2753 at ([world]40.009572407819924, 104.03802502104924, 800.0337202324483)
+[23:36:33] [Server thread/INFO]: Titosanti lost connection: Disconnected
+[23:36:33] [Server thread/INFO]: Titosanti left the game
+[23:36:39] [User Authenticator #1/INFO]: UUID of player Titosanti is 4167d166-6254-3758-90b1-7d2ea033fc24
+[23:36:39] [Server thread/INFO]: Titosanti joined the game
+[23:36:39] [Server thread/INFO]: Titosanti[/127.28.110.165:37357] logged in with entity id 2754 at ([world]40.009572407819924, 104.03802502104924, 800.0337202324483)
+[23:37:46] [Server thread/INFO]: Titosanti issued server command: /time set day
+[23:37:46] [Server thread/INFO]: [Titosanti: Set the time to 1000]
+[23:38:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/2780, uuid='f2105191-26f4-4ce5-ae23-d46464c1c233', l='ServerLevel[world]', x=56.01, y=91.00, z=747.99, cpos=[3, 46], tl=15451, v=true] died, message: 'Farmer was slain by Titosanti'
+[23:38:38] [Server thread/INFO]: Villager EntityVillager['Nitwit'/2828, uuid='4e4120e9-4395-4ce0-9ae9-40a6d9efc6b3', l='ServerLevel[world]', x=22.29, y=80.00, z=701.71, cpos=[1, 43], tl=15623, v=true] died, message: 'Nitwit was slain by Titosanti'
+[23:39:59] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[23:39:59] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[23:40:14] [Server thread/INFO]: Titosanti has made the advancement [What a Deal!]
+[23:42:20] [Server thread/INFO]: Titosanti lost connection: Disconnected
+[23:42:20] [Server thread/INFO]: Titosanti left the game
+[23:42:20] [Server thread/INFO]: Stopping server
+[23:42:20] [Server thread/INFO]: Saving players
+[23:42:20] [Server thread/INFO]: Saving worlds
+[23:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saved 424 block chunks, 445 entity chunks, 1 poi chunks in world 'world' in 0.48s
+[23:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[23:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:42:20] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[23:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:42:20] [Server thread/INFO]: Flushing Chunk IO
+[23:42:20] [Server thread/INFO]: Closing Thread Pool
+[23:42:20] [Server thread/INFO]: Closing Server
