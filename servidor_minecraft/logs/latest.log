@@ -68,3 +68,9 @@ java.lang.IllegalArgumentException: Bad history file syntax! The history file `.
 [17:44:08] [User Authenticator #2/INFO]: UUID of player Maxisccs is 2f75cc0b-7d44-3317-a8f3-7495ea0a7b2c
 [17:44:08] [Server thread/INFO]: Maxisccs joined the game
 [17:44:08] [Server thread/INFO]: Maxisccs[/127.52.197.205:39661] logged in with entity id 4193 at ([world]2260.9585993329792, 66.0, 3626.646949702549)
+[17:58:35] [User Authenticator #3/INFO]: UUID of player Blister2112 is 20a6a3d1-4558-3dd4-aeb2-bbe9e34feace
+[17:58:35] [Server thread/INFO]: Blister2112 joined the game
+[17:58:35] [Server thread/INFO]: Blister2112[/127.208.215.251:43991] logged in with entity id 7098 at ([world]3958.8828359498543, 64.0, 5151.611340324463)
+[17:59:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Blister2112> maxi
+[17:59:11] [Async Chat Thread - #7/INFO]: [Not Secure] <Maxisccs> dime
+[17:59:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Blister2112> la granja de hierro q tu hiciste, no hay problema si se hace cerca de aldeanos vrd?
