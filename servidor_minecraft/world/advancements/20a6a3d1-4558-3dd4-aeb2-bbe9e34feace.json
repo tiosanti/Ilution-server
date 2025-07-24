@@ -1679,9 +1679,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_chicken": "2025-07-24 17:32:22 +0000"
+      "has_wood_slab": "2025-07-24 17:22:19 +0000"
     },
     "done": true
   },
@@ -1694,6 +1694,12 @@
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2025-07-24 17:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-24 17:32:22 +0000"
     },
     "done": true
   },
@@ -1715,9 +1721,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_wood_slab": "2025-07-24 17:22:19 +0000"
+      "has_raw_copper": "2025-07-24 18:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-24 18:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-24 18:06:38 +0000"
     },
     "done": true
   },
