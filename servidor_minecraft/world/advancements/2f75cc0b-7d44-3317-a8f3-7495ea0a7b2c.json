@@ -170,6 +170,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-24 02:26:46 +0000",
       "minecraft:skeleton": "2025-07-23 21:45:06 +0000",
+      "minecraft:ghast": "2025-07-24 19:28:41 +0000",
       "minecraft:hoglin": "2025-07-24 01:40:11 +0000",
       "minecraft:magma_cube": "2025-07-24 02:33:19 +0000",
       "minecraft:spider": "2025-07-23 21:25:07 +0000",
@@ -1859,6 +1860,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 17:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-24 19:28:41 +0000"
     },
     "done": true
   },
