@@ -60,3 +60,6 @@ java.lang.IllegalArgumentException: Bad history file syntax! The history file `.
 [17:26:52] [Server thread/INFO]: Villager EntityVillager['Villager'/183, uuid='626183b8-49ca-4c12-80d6-04a1e7bff2d4', l='ServerLevel[world]', x=3998.30, y=61.77, z=5120.67, cpos=[249, 320], tl=10462, v=true] died, message: 'Villager was slain by Zombie'
 [17:27:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Blister2112> maxi
 [17:29:39] [Server thread/INFO]: Villager EntityVillager['Villager'/177, uuid='b6ef9483-34d8-45d9-9b29-814b232b0720', l='ServerLevel[world]', x=3948.27, y=62.90, z=5127.24, cpos=[246, 320], tl=19838, v=true] died, message: 'Villager was slain by Zombie'
+[17:31:11] [Server thread/INFO]: Villager EntityVillager['Villager'/153, uuid='fd1580b5-74ac-4e02-b47e-fec3b6a97aa5', l='ServerLevel[world]', x=3981.89, y=65.00, z=5137.93, cpos=[248, 321], tl=21551, v=true] died, message: 'Villager suffocated in a wall'
+[17:34:06] [Server thread/INFO]: Maxisccs lost connection: Timed out
+[17:34:06] [Server thread/INFO]: Maxisccs left the game
