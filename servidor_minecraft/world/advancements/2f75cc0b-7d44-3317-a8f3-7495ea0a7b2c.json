@@ -9,10 +9,12 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-07-23 22:06:43 +0000",
       "minecraft:birch_forest": "2025-07-23 21:30:51 +0000",
+      "minecraft:bamboo_jungle": "2025-07-24 18:44:11 +0000",
       "minecraft:beach": "2025-07-23 21:26:49 +0000",
       "minecraft:dark_forest": "2025-07-23 22:04:11 +0000",
       "minecraft:sparse_jungle": "2025-07-23 21:34:50 +0000",
       "minecraft:river": "2025-07-23 21:34:44 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-24 18:39:37 +0000",
       "minecraft:stony_shore": "2025-07-23 22:05:13 +0000",
       "minecraft:dripstone_caves": "2025-07-23 22:14:54 +0000",
       "minecraft:cold_ocean": "2025-07-23 22:08:37 +0000",
@@ -1901,6 +1903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 18:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-07-24 18:32:20 +0000"
@@ -1949,6 +1957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 18:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-24 18:30:48 +0000"
@@ -1985,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 18:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-24 18:32:20 +0000"
@@ -2000,6 +2020,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-24 18:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-24 18:56:00 +0000"
     },
     "done": true
   },
