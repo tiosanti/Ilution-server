@@ -16,6 +16,7 @@
       "minecraft:lukewarm_ocean": "2025-07-24 00:47:50 +0000",
       "minecraft:river": "2025-07-24 00:40:55 +0000",
       "minecraft:stony_shore": "2025-07-24 03:06:58 +0000",
+      "minecraft:dripstone_caves": "2025-07-24 18:14:07 +0000",
       "minecraft:cold_ocean": "2025-07-24 02:45:56 +0000",
       "minecraft:forest": "2025-07-24 00:38:30 +0000",
       "minecraft:deep_cold_ocean": "2025-07-24 02:45:16 +0000",
@@ -1730,6 +1731,24 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-24 18:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-24 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-24 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-24 18:14:43 +0000"
     },
     "done": true
   },
