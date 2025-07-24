@@ -7,6 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-24 21:03:46 +0000",
+      "minecraft:cherry_grove": "2025-07-24 21:03:30 +0000",
+      "minecraft:sunflower_plains": "2025-07-24 21:03:13 +0000",
       "minecraft:birch_forest": "2025-07-23 22:02:02 +0000",
       "minecraft:beach": "2025-07-23 21:43:57 +0000",
       "minecraft:dark_forest": "2025-07-24 20:27:37 +0000",
@@ -16,7 +19,9 @@
       "minecraft:forest": "2025-07-23 21:32:51 +0000",
       "minecraft:jungle": "2025-07-23 21:44:40 +0000",
       "minecraft:ocean": "2025-07-23 21:44:03 +0000",
+      "minecraft:frozen_peaks": "2025-07-24 21:05:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-23 22:13:14 +0000",
+      "minecraft:meadow": "2025-07-24 21:01:54 +0000",
       "minecraft:savanna": "2025-07-24 01:30:06 +0000",
       "minecraft:plains": "2025-07-23 22:42:14 +0000"
     },
@@ -1608,36 +1613,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-07-24 19:57:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-24 20:08:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-24 20:22:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-24 20:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-07-24 19:57:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-24 19:57:10 +0000"
@@ -1650,12 +1625,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-07-24 19:57:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-24 19:57:10 +0000"
@@ -1665,6 +1634,42 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-24 19:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-24 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-24 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-24 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-24 20:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-24 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-24 20:22:26 +0000"
     },
     "done": true
   },
