@@ -826,7 +826,8 @@
       "minecraft:wither_skeleton": "2025-07-24 01:35:31 +0000",
       "minecraft:cave_spider": "2025-07-24 01:03:09 +0000",
       "minecraft:piglin": "2025-07-24 01:41:53 +0000",
-      "minecraft:zombie": "2025-07-24 00:47:55 +0000"
+      "minecraft:zombie": "2025-07-24 00:47:55 +0000",
+      "minecraft:zombie_villager": "2025-07-24 17:26:12 +0000"
     },
     "done": false
   },
@@ -1588,6 +1589,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 03:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-24 03:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-24 03:17:32 +0000"
@@ -1612,21 +1649,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-24 02:54:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-24 03:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-24 02:54:36 +0000"
     },
     "done": true
   },
@@ -1636,27 +1661,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-07-24 03:16:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-24 03:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-07-24 02:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-07-24 02:57:39 +0000"
     },
     "done": true
   },
@@ -1672,9 +1679,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_log": "2025-07-24 03:16:39 +0000"
+      "has_wood_slab": "2025-07-24 17:22:19 +0000"
     },
     "done": true
   },
