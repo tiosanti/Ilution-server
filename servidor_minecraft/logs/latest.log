@@ -63,3 +63,8 @@ java.lang.IllegalArgumentException: Bad history file syntax! The history file `.
 [17:31:11] [Server thread/INFO]: Villager EntityVillager['Villager'/153, uuid='fd1580b5-74ac-4e02-b47e-fec3b6a97aa5', l='ServerLevel[world]', x=3981.89, y=65.00, z=5137.93, cpos=[248, 321], tl=21551, v=true] died, message: 'Villager suffocated in a wall'
 [17:34:06] [Server thread/INFO]: Maxisccs lost connection: Timed out
 [17:34:06] [Server thread/INFO]: Maxisccs left the game
+[17:43:05] [Server thread/INFO]: Blister2112 lost connection: Disconnected
+[17:43:05] [Server thread/INFO]: Blister2112 left the game
+[17:44:08] [User Authenticator #2/INFO]: UUID of player Maxisccs is 2f75cc0b-7d44-3317-a8f3-7495ea0a7b2c
+[17:44:08] [Server thread/INFO]: Maxisccs joined the game
+[17:44:08] [Server thread/INFO]: Maxisccs[/127.52.197.205:39661] logged in with entity id 4193 at ([world]2260.9585993329792, 66.0, 3626.646949702549)
