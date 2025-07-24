@@ -1340,3 +1340,56 @@ java.lang.IllegalArgumentException: Bad history file syntax! The history file `.
 [20:26:02] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
 [20:26:02] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
 [20:26:26] [Async Chat Thread - #74/INFO]: [Not Secure] <Blister2112> bueno voa comer
+[20:26:34] [Server thread/INFO]: Titosanti issued server command: /gamemode spectator
+[20:26:34] [Server thread/INFO]: [Titosanti: Set own game mode to Spectator Mode]
+[20:26:43] [Server thread/INFO]: Titosanti issued server command: /tp Cerdo_God
+[20:26:43] [Server thread/INFO]: [Titosanti: Teleported Titosanti to Cerdo_God]
+[20:26:50] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[20:26:50] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[20:27:03] [Async Chat Thread - #73/INFO]: [Not Secure] <Blister2112> estos 49 bloques de hierro creanme que los voy a valorar muchachos, muchas gracias
+[20:27:36] [Async Chat Thread - #74/INFO]: [Not Secure] <Blister2112> coño mano que facto tira asado
+[20:27:51] [Async Chat Thread - #74/INFO]: [Not Secure] <Blister2112> KLSALKSALKS
+[20:27:58] [Async Chat Thread - #73/INFO]: [Not Secure] <Blister2112> bye muchachos
+[20:28:01] [Async Chat Thread - #73/INFO]: [Not Secure] <Blister2112> voa coemr
+[20:28:05] [Async Chat Thread - #74/INFO]: [Not Secure] <Blister2112> AKJSDKJSA
+[20:28:06] [Server thread/INFO]: Blister2112 lost connection: Disconnected
+[20:28:06] [Server thread/INFO]: Blister2112 left the game
+[20:28:19] [Server thread/INFO]: Titosanti issued server command: /gamemode spectator
+[20:28:19] [Server thread/INFO]: [Titosanti: Set own game mode to Spectator Mode]
+[20:28:21] [Server thread/INFO]: Titosanti issued server command: /tp Cerdo_God
+[20:28:21] [Server thread/INFO]: [Titosanti: Teleported Titosanti to Cerdo_God]
+[20:28:28] [Server thread/INFO]: Titosanti issued server command: /gamemode survival
+[20:28:28] [Server thread/INFO]: [Titosanti: Set own game mode to Survival Mode]
+[20:28:54] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
+[20:28:54] [Server thread/INFO]: Cerdo_God left the game
+[20:35:45] [Server thread/INFO]: Titosanti lost connection: Disconnected
+[20:35:45] [Server thread/INFO]: Titosanti left the game
+[20:35:46] [Server thread/INFO]: Maxisccs lost connection: Disconnected
+[20:35:46] [Server thread/INFO]: Maxisccs left the game
+[20:36:21] [Server thread/INFO]: asado17 lost connection: Disconnected
+[20:36:21] [Server thread/INFO]: asado17 left the game
+[20:36:21] [Server thread/INFO]: Stopping server
+[20:36:21] [Server thread/INFO]: Saving players
+[20:36:22] [Server thread/INFO]: Saving worlds
+[20:36:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:36:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:36:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:36:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:36:22] [Server thread/INFO]: [ChunkHolderManager] Saved 431 block chunks, 936 entity chunks, 0 poi chunks in world 'world' in 0.58s
+[20:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:36:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Saved 64 block chunks, 68 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[20:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:36:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:36:23] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[20:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:36:23] [Server thread/INFO]: Flushing Chunk IO
+[20:36:23] [Server thread/INFO]: Closing Thread Pool
+[20:36:23] [Server thread/INFO]: Closing Server
