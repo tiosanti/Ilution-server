@@ -1431,6 +1431,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-24 01:39:40 +0000",
       "minecraft:nether_wastes": "2025-07-24 01:44:20 +0000",
+      "minecraft:soul_sand_valley": "2025-07-24 19:19:40 +0000",
       "minecraft:warped_forest": "2025-07-24 01:46:19 +0000"
     },
     "done": false
@@ -1633,6 +1634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-24 18:09:32 +0000"
@@ -1648,6 +1655,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-24 18:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
     },
     "done": true
   },
@@ -1945,6 +1958,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-24 19:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 18:31:46 +0000"
@@ -1966,6 +1991,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-24 18:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
     },
     "done": true
   },
@@ -2035,9 +2066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 18:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-24 19:21:57 +0000"
     },
     "done": true
   },
