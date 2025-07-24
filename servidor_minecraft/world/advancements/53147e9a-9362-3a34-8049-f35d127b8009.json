@@ -355,6 +355,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-24 01:16:27 +0000",
       "chicken": "2025-07-23 21:43:20 +0000",
+      "cooked_mutton": "2025-07-24 20:07:11 +0000",
       "beef": "2025-07-24 01:13:53 +0000",
       "bread": "2025-07-23 22:43:33 +0000",
       "rotten_flesh": "2025-07-23 23:54:30 +0000",
@@ -458,6 +459,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-24 01:44:19 +0000",
       "minecraft:skeleton": "2025-07-23 21:45:08 +0000",
+      "minecraft:spider": "2025-07-24 20:02:40 +0000",
       "minecraft:wither_skeleton": "2025-07-24 01:43:27 +0000",
       "minecraft:enderman": "2025-07-24 01:08:17 +0000",
       "minecraft:zombie": "2025-07-23 22:59:12 +0000"
@@ -1608,6 +1610,18 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-07-24 19:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-24 20:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-24 20:08:15 +0000"
     },
     "done": true
   },

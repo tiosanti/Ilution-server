@@ -584,6 +584,8 @@
       "cooked_porkchop": "2025-07-23 21:29:41 +0000",
       "cooked_mutton": "2025-07-23 22:55:17 +0000",
       "cooked_beef": "2025-07-23 21:46:20 +0000",
+      "porkchop": "2025-07-24 20:10:24 +0000",
+      "mutton": "2025-07-24 20:07:58 +0000",
       "bread": "2025-07-24 01:37:25 +0000"
     },
     "done": false
@@ -2106,6 +2108,18 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-07-24 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 20:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 20:09:53 +0000"
     },
     "done": true
   },
