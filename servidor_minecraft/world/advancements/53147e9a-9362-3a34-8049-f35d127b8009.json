@@ -16,9 +16,11 @@
       "minecraft:sparse_jungle": "2025-07-24 01:22:20 +0000",
       "minecraft:river": "2025-07-23 22:05:06 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 01:20:52 +0000",
+      "minecraft:stony_shore": "2025-07-24 23:24:13 +0000",
       "minecraft:forest": "2025-07-23 21:32:51 +0000",
       "minecraft:jungle": "2025-07-23 21:44:40 +0000",
       "minecraft:ocean": "2025-07-23 21:44:03 +0000",
+      "minecraft:flower_forest": "2025-07-24 23:23:58 +0000",
       "minecraft:frozen_peaks": "2025-07-24 21:05:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-23 22:13:14 +0000",
       "minecraft:meadow": "2025-07-24 21:01:54 +0000",
@@ -466,6 +468,7 @@
       "minecraft:blaze": "2025-07-24 01:44:19 +0000",
       "minecraft:skeleton": "2025-07-23 21:45:08 +0000",
       "minecraft:spider": "2025-07-24 20:02:40 +0000",
+      "minecraft:zombified_piglin": "2025-07-24 23:45:39 +0000",
       "minecraft:wither_skeleton": "2025-07-24 01:43:27 +0000",
       "minecraft:enderman": "2025-07-24 01:08:17 +0000",
       "minecraft:zombie": "2025-07-23 22:59:12 +0000"
@@ -1507,7 +1510,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-24 01:43:01 +0000",
-      "minecraft:basalt_deltas": "2025-07-24 01:42:30 +0000"
+      "minecraft:basalt_deltas": "2025-07-24 01:42:30 +0000",
+      "minecraft:warped_forest": "2025-07-24 23:38:43 +0000"
     },
     "done": false
   },
@@ -1670,6 +1674,102 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-24 20:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-24 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 23:50:11 +0000"
     },
     "done": true
   },
