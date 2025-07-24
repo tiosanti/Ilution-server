@@ -519,6 +519,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-24 02:31:14 +0000",
       "cooked_beef": "2025-07-23 21:28:33 +0000",
       "bread": "2025-07-24 01:45:33 +0000",
       "golden_carrot": "2025-07-23 23:23:03 +0000",
@@ -537,6 +538,7 @@
       "minecraft:blaze": "2025-07-24 01:32:50 +0000",
       "minecraft:skeleton": "2025-07-23 21:32:45 +0000",
       "minecraft:magma_cube": "2025-07-24 01:30:16 +0000",
+      "minecraft:phantom": "2025-07-24 02:48:15 +0000",
       "minecraft:zombified_piglin": "2025-07-24 02:11:15 +0000",
       "minecraft:wither_skeleton": "2025-07-24 01:32:48 +0000",
       "minecraft:zombie": "2025-07-23 21:28:42 +0000"
@@ -1361,11 +1363,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-24 02:26:37 +0000",
       "minecraft:nether_wastes": "2025-07-24 01:33:29 +0000",
       "minecraft:soul_sand_valley": "2025-07-24 01:56:12 +0000",
-      "minecraft:basalt_deltas": "2025-07-23 23:57:03 +0000"
+      "minecraft:basalt_deltas": "2025-07-23 23:57:03 +0000",
+      "minecraft:warped_forest": "2025-07-24 02:33:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1490,6 +1494,84 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-24 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-24 02:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 02:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-24 02:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-24 02:38:06 +0000"
     },
     "done": true
   },
