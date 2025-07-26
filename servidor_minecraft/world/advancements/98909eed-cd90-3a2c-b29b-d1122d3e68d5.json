@@ -449,6 +449,7 @@
       "cooked_porkchop": "2025-07-23 22:38:02 +0000",
       "cooked_mutton": "2025-07-23 23:02:51 +0000",
       "cooked_beef": "2025-07-24 01:47:25 +0000",
+      "bread": "2025-07-26 02:20:09 +0000",
       "cooked_chicken": "2025-07-23 22:32:08 +0000"
     },
     "done": false
@@ -1335,6 +1336,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-26 01:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 02:28:30 +0000"
     },
     "done": true
   },

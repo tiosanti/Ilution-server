@@ -19,6 +19,7 @@
       "minecraft:river": "2025-07-23 22:05:06 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 01:20:52 +0000",
       "minecraft:stony_shore": "2025-07-24 23:24:13 +0000",
+      "minecraft:dripstone_caves": "2025-07-26 02:27:10 +0000",
       "minecraft:cold_ocean": "2025-07-26 02:06:32 +0000",
       "minecraft:forest": "2025-07-23 21:32:51 +0000",
       "minecraft:deep_cold_ocean": "2025-07-26 02:06:03 +0000",
@@ -1843,9 +1844,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-26 02:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-26 02:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-07-26 02:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-26 02:31:46 +0000"
     },
     "done": true
   },
