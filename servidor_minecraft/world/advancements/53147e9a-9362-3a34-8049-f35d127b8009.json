@@ -1516,6 +1516,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-26 19:18:25 +0000",
       "minecraft:nether_wastes": "2025-07-24 01:43:01 +0000",
       "minecraft:basalt_deltas": "2025-07-24 01:42:30 +0000",
       "minecraft:warped_forest": "2025-07-24 23:38:43 +0000"
@@ -2113,6 +2114,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-26 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-26 19:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-26 19:15:27 +0000"
     },
     "done": true
   },
