@@ -2754,5 +2754,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-26 19:18:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

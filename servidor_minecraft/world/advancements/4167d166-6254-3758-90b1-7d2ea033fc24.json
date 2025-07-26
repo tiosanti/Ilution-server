@@ -542,6 +542,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-24 01:32:50 +0000",
       "minecraft:skeleton": "2025-07-23 21:32:45 +0000",
+      "minecraft:hoglin": "2025-07-26 19:23:02 +0000",
       "minecraft:magma_cube": "2025-07-24 01:30:16 +0000",
       "minecraft:phantom": "2025-07-24 02:48:15 +0000",
       "minecraft:zombified_piglin": "2025-07-24 02:11:15 +0000",
@@ -1846,15 +1847,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-26 19:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2025-07-26 19:16:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-26 19:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-26 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-26 19:23:46 +0000"
     },
     "done": true
   },
