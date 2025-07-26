@@ -362,6 +362,7 @@
       "porkchop": "2025-07-24 00:35:52 +0000",
       "apple": "2025-07-24 23:21:23 +0000",
       "mutton": "2025-07-23 21:33:31 +0000",
+      "bread": "2025-07-26 02:02:52 +0000",
       "rotten_flesh": "2025-07-23 21:46:36 +0000",
       "carrot": "2025-07-24 03:07:10 +0000"
     },
@@ -2590,6 +2591,36 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-24 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-26 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-26 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-26 02:06:01 +0000"
     },
     "done": true
   },
