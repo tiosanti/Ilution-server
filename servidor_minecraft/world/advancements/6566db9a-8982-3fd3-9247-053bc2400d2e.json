@@ -297,8 +297,10 @@
       "bread": "2025-07-23 22:19:50 +0000",
       "rotten_flesh": "2025-07-23 21:43:39 +0000",
       "melon_slice": "2025-07-23 22:11:15 +0000",
+      "golden_carrot": "2025-07-26 02:58:05 +0000",
       "cooked_chicken": "2025-07-23 22:26:08 +0000",
-      "cooked_salmon": "2025-07-23 21:45:50 +0000"
+      "cooked_salmon": "2025-07-23 21:45:50 +0000",
+      "carrot": "2025-07-26 02:52:30 +0000"
     },
     "done": false
   },
@@ -1882,9 +1884,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-26 01:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
     },
     "done": true
   },
@@ -1909,6 +1923,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-26 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
     },
     "done": true
   },
@@ -1948,15 +1968,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-26 02:35:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-26 02:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-26 01:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-26 02:53:39 +0000"
     },
     "done": true
   },
@@ -1990,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-26 02:10:14 +0000"
@@ -2005,6 +2061,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-26 01:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-26 02:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
     },
     "done": true
   },
@@ -2041,6 +2109,24 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-26 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
     },
     "done": true
   },
@@ -2131,6 +2217,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-26 01:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-26 03:01:43 +0000"
     },
     "done": true
   },
