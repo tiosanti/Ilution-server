@@ -1,17 +1,17 @@
-[19:00:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:00:43] [ServerMain/INFO]: Loaded 7 recipes
-[19:00:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:00:44] [Server thread/INFO]: Loading properties
-[19:00:44] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[19:00:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:00:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:00:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[01:30:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:30:30] [ServerMain/INFO]: Loaded 7 recipes
+[01:30:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:30:30] [Server thread/INFO]: Loading properties
+[01:30:30] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[01:30:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:30:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:30:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[19:00:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[19:00:45] [Server thread/INFO]: Default game type: SURVIVAL
-[19:00:45] [Server thread/INFO]: Generating keypair
-[19:00:45] [Server console handler/WARN]: [org.jline] Failed to load history
+[01:30:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:30:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:30:31] [Server thread/INFO]: Generating keypair
+[01:30:31] [Server console handler/WARN]: [org.jline] Failed to load history
 java.lang.IllegalArgumentException: Bad history file syntax! The history file `.console_history` may be an older history: please remove it or use a different history file.
 	at org.jline.reader.impl.history.DefaultHistory.addHistoryLine(DefaultHistory.java:175) ~[jline-reader-3.20.0.jar:?]
 	at org.jline.reader.impl.history.DefaultHistory.addHistoryLine(DefaultHistory.java:165) ~[jline-reader-3.20.0.jar:?]
@@ -26,28 +26,69 @@ java.lang.IllegalArgumentException: Bad history file syntax! The history file `.
 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
 	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[paper-1.20.1.jar:git-Paper-196]
-[19:00:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:00:45] [Server thread/INFO]: Using epoll channel type
-[19:00:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:00:45] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[19:00:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:00:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:00:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:00:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:00:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:00:45] [Server thread/INFO]: Preparing level "world"
-[19:00:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:00:46] [Server thread/INFO]: Time elapsed: 406 ms
-[19:00:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:00:46] [Server thread/INFO]: Time elapsed: 68 ms
-[19:00:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:00:46] [Server thread/INFO]: Time elapsed: 57 ms
-[19:00:46] [Server thread/INFO]: Running delayed init tasks
-[19:00:46] [Server thread/INFO]: Done (2.557s)! For help, type "help"
-[19:00:46] [Server thread/INFO]: Timings Reset
-[19:01:18] [User Authenticator #0/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
-[19:01:18] [Server thread/INFO]: Cerdo_God joined the game
-[19:01:18] [Server thread/INFO]: Cerdo_God[/127.91.145.211:48023] logged in with entity id 163 at ([world]2158.699999988079, -55.0, 949.3000000119209)
-[19:04:46] [Server thread/INFO]: Cerdo_God was blown up by Creeper
-[19:05:16] [Server thread/INFO]: Cerdo_God lost connection: Disconnected
-[19:05:17] [Server thread/INFO]: Cerdo_God left the game
+[01:30:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:30:31] [Server thread/INFO]: Using epoll channel type
+[01:30:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:30:31] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[01:30:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:30:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:30:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:30:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:30:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:30:32] [Server thread/INFO]: Preparing level "world"
+[01:30:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:30:33] [Server thread/INFO]: Time elapsed: 469 ms
+[01:30:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:30:33] [Server thread/INFO]: Time elapsed: 107 ms
+[01:30:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:30:33] [Server thread/INFO]: Time elapsed: 71 ms
+[01:30:33] [Server thread/INFO]: Running delayed init tasks
+[01:30:33] [Server thread/INFO]: Done (2.619s)! For help, type "help"
+[01:30:33] [Server thread/INFO]: Timings Reset
+[01:32:32] [User Authenticator #0/INFO]: UUID of player Maxisccs is 2f75cc0b-7d44-3317-a8f3-7495ea0a7b2c
+[01:32:32] [Server thread/INFO]: Maxisccs joined the game
+[01:32:32] [Server thread/INFO]: Maxisccs[/127.52.197.205:41653] logged in with entity id 228 at ([world]2224.97179801326, 65.0, 3603.646868261499)
+[01:32:53] [User Authenticator #0/INFO]: UUID of player Cerdo_God is 53147e9a-9362-3a34-8049-f35d127b8009
+[01:32:53] [Server thread/INFO]: Cerdo_God joined the game
+[01:32:53] [Server thread/INFO]: Cerdo_God[/127.91.145.211:55045] logged in with entity id 570 at ([world]11.5, 67.0, -56.5)
+[01:33:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> yo me mori cuando no estaban
+[01:33:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> estoy desde cero
+[01:33:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> la real
+[01:34:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> voy a juga de relax
+[01:34:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> ya me sabe a culo si me quieren matar o no
+[01:34:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Cerdo_God> si
+[01:34:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> eso mismo mrk
+[01:34:44] [User Authenticator #1/INFO]: UUID of player Frist is 98909eed-cd90-3a2c-b29b-d1122d3e68d5
+[01:34:44] [Server thread/INFO]: Frist joined the game
+[01:34:44] [Server thread/INFO]: Frist[/127.231.162.91:36735] logged in with entity id 1272 at ([world]2238.580981026977, 66.0, 3627.0940971604696)
+[01:34:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> pero vamos a hacerlo de una vez
+[01:34:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> dale ps
+[01:35:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> no hay lio
+[01:35:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> es q la idea es matarnos estre no sotros
+[01:35:30] [Server thread/INFO]: Cerdo_God was doomed to fall by Spider
+[01:35:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> jeje
+[01:35:37] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> bno
+[01:35:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> voy a cenar
+[01:35:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> me avisas maxi
+[01:35:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> como??
+[01:35:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> dale
+[01:36:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> voy a llegar manana ps pero dale
+[01:36:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Maxisccs> 2228/64/3600
+[01:36:09] [Server thread/INFO]: Frist has made the advancement [Cover Me with Diamonds]
+[01:36:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> ni tan lejos
+[01:36:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> con ruleta
+[01:36:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Cerdo_God> asi son parejos
+[01:37:17] [Server thread/INFO]: Frist has made the advancement [What a Deal!]
+[01:37:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Cerdo_God> o con un papelito
+[01:37:33] [User Authenticator #2/INFO]: UUID of player Juninhossos is 27f73e94-57b4-33ff-b2ef-836e0623e0a4
+[01:37:33] [Server thread/INFO]: Juninhossos joined the game
+[01:37:33] [Server thread/INFO]: Juninhossos[/127.93.255.34:53515] logged in with entity id 2721 at ([world]-87.04591687993806, 64.0, -260.28903340965985)
+[01:38:18] [Server thread/WARN]: Juninhossos was kicked due to keepalive timeout!
+[01:38:18] [Server thread/INFO]: Juninhossos lost connection: Timed out
+[01:38:18] [Server thread/INFO]: Juninhossos left the game
+[01:38:39] [User Authenticator #3/INFO]: UUID of player Juninhossos is 27f73e94-57b4-33ff-b2ef-836e0623e0a4
+[01:38:39] [Server thread/INFO]: Juninhossos joined the game
+[01:38:39] [Server thread/INFO]: Juninhossos[/127.93.255.34:38417] logged in with entity id 3514 at ([world]-184.69999998807907, 69.04289683901332, -307.32505955032417)
+[01:38:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Cerdo_God> o un uhc se presta
+[01:40:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Cerdo_God> si me das lo del el srvv a mi lo voy a prender siempre
+[01:40:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Cerdo_God> yo siempre ando activo
