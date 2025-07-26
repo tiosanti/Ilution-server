@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-24 21:03:46 +0000",
+      "minecraft:taiga": "2025-07-26 02:08:33 +0000",
       "minecraft:deep_ocean": "2025-07-26 02:06:00 +0000",
       "minecraft:cherry_grove": "2025-07-24 21:03:30 +0000",
       "minecraft:sunflower_plains": "2025-07-24 21:03:13 +0000",

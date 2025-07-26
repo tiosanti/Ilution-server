@@ -748,6 +748,7 @@
       "minecraft:spider": "2025-07-23 22:41:03 +0000",
       "minecraft:creeper": "2025-07-23 21:45:53 +0000",
       "minecraft:phantom": "2025-07-24 01:27:57 +0000",
+      "minecraft:zombified_piglin": "2025-07-26 02:15:17 +0000",
       "minecraft:piglin": "2025-07-24 01:41:03 +0000",
       "minecraft:enderman": "2025-07-24 02:34:24 +0000",
       "minecraft:zombie": "2025-07-23 21:46:23 +0000",
@@ -2603,6 +2604,18 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-07-26 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-26 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-26 02:15:17 +0000"
     },
     "done": true
   },
